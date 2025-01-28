@@ -3,6 +3,7 @@ from PIL import Image
 import os
 import subprocess
 import time
+import requests
 
 # Constants for file paths and MIME types
 PDF_MIME_TYPE = "application/pdf"
