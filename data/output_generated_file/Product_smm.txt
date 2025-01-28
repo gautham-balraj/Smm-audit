@@ -1,0 +1,151 @@
+    "Social Media Marketing Score": 3,
+    "Font Size": 3, "Text is often too small to read from a distance and detracts from the overall engagement."
+    "Visibility of Text": 4, "Placement could be better optimized to enhance readability and engagement."
+    "Logo Placement": 2, "Logo is poorly placed, disrupting the visual flow of the post and failing to attract attention where it should."
+    "Consistency": 3, "The design fails to maintain a consistent aesthetic across various elements, lowering credibility."
+    "Alignment": 4, "Some misalignment exists, which leads to an unprofessional appearance."
+    "Aesthetic Appeal": 3, "The design lacks visual intrigue and fails to capture audience attention quickly."
+    "Brand Elements": 4, "Brand elements are not used consistently or prominently enough to enhance identity."
+    "Repetitiveness": 2, "The themes and visuals used are too similar across posts, reducing brand distinctiveness."
+}
+```
+
+    "Social Media Marketing Score": 5, explanation: The post overall lacks aesthetic appeal and visual professionalism. Though there are elements of social media marketing demonstrated, the effectiveness is diminished due to poor alignment and layout, leading to a less engaging presentation.
+
+    "criteria_name": "Aesthetic Appeal", score: 5, explanation: The design lacks harmony and coherence, making it visually overwhelming rather than appealing, affecting overall engagement.
+
+    "criteria_name": "Alignment", score: 5, explanation: Various elements are misaligned, which detracts from the overall polish of the post and hinders viewer experience. 
+}
+
+    "Social Media Marketing Score": 4,
+    "Font Size": 5, "Explanation": "The font size is adequate but must be more carefully considered to ensure readability.",
+    "Visibility of Text": 4, "Explanation": "Text visibility suffers due to poor placement and background contrast, making it hard for users to engage with the content.",
+    "Logo Placement": 5, "Explanation": "The logo's location is distracting rather than complementary to the visual experience.",
+    "Consistency": 4, "Explanation": "Lack of design consistency across posts detracts from brand identity and reduces overall cohesion.",
+    "Alignment": 4, "Explanation": "Elements in the post are slightly misaligned, contributing to a chaotic visual presentation.",
+    "Aesthetic Appeal": 4, "Explanation": "The overall visual design is unappealing and lacks professionalism, negatively impacting brand perception.",
+    "Brand Elements": 5, "Explanation": "Brand assets are present but lack sufficient impact and diversity to strengthen brand recognition.",
+    "Repetitiveness": 4, "Explanation": "The themes are repetitive, showing limited creativity which can lead to viewer disengagement."
+}
+```
+
+    "Social Media Marketing Score": 4, "The text used in the post is quite small and may not be easily readable on mobile devices. Text visibility is somewhat compromised by the positioning amidst busy background elements. Logo placement disrupts the overall aesthetic, causing distraction. There is a notable lack of creative diversity throughout the posts, resulting in a repetitive feel." ,
+    "Font Size": 4, "The text is smaller than ideal, making it hard to read on mobile devices.";
+    "Visibility of Text": 4, "Poor placement leads to issues with readability.";
+    "Logo Placement": 4, "The logo's placement disrupts the visual appeal rather than enhancing it.";
+    "Consistency": 4, "Post designs are lacking cohesion in terms of overall branding elements.";
+    "Aesthetic Appeal": 4, "The design, while attention-catching, suffers from clutter and lacks professionalism.";
+    "Brand Elements": 5, "Brand elements are present but not used effectively, making them feel overused or misplaced."
+}
+
+    "Social Media Marketing Score": 2,
+    "Font Size": 4, "Font size is inconsistent and in places hard to read, which could frustrate users scanning the content."
+    "Visibility of Text": 3, "Text gets lost amid visual clutter, failing to prioritize key messages effectively."
+    "Logo Placement": 2, "Logo placement negatively affects the overall aesthetics of the post. It disrupts the flow of the visual design."
+    "Consistency": 3, "Overall design consistency is lacking, which doesn't help foster brand loyalty or recognition."
+    "Alignment": 2, "Poor alignment of design elements leads to a chaotic feel, making it more difficult to engage with the content."
+    "Aesthetic Appeal": 2, "Lacks visual allure and professionalism. More attention needs to be paid to aesthetic choices."
+    "Brand Elements": 3, "Insufficient brand elements used, which decreases brand recognition and recall."
+    "Repetitiveness": 2, "Repetitive themes without any fresh or creative angles make it less engaging for an audience."
+}
+
+    "Social Media Marketing Score": 5, "The social media marketing aspects exhibit some potential, but significant improvements are necessary. Text size seems adequate, but readability falters due to poor placement or haphazard design choices. Logo placement disrupts the overall aesthetic, which appears unprofessional. While there is some attempt at consistency, the overall design lacks cohesion, feeling disjointed and uninviting. The visual appeal of the post is limited, which may hinder audience engagement. Although there are brand elements present, they are often overused or insufficiently integrated, lacking innovation or creative diversity in the posts."
+}
+
+    "Social Media Marketing Score": 6,
+    "Font Size": 5, explanation: Some text elements are too small to be easily readable, limiting access for all audience members.
+    "Visibility of Text": 6, explanation: Text visibility could be enhanced to improve legibility against the background.
+    "Logo Placement": 5, explanation: The logo placement disrupts the overall aesthetic rather than supporting it.
+    "Consistency": 6, explanation: While there is a reasonable level of consistency, it lacks uniformity in style that could strengthen brand recognition.
+    "Alignment": 6, explanation: Most elements are aligned sufficiently, but minor adjustments could improve overall polish.
+    "Aesthetic Appeal": 7, explanation: The overall design is appealing, with a professional look, but could be more innovative.
+    "Brand Elements": 5, explanation: There is insufficient use of brand elements that strengthen the brand presence in the post.
+    "Repetitiveness": 6, explanation: The post feels somewhat repetitive compared to previous content, affecting engagement levels.
+}
+
+    "Social Media Marketing Score": 4,
+    "Font Size": 5, "While the font is mostly readable, certain texts are overwhelmingly small and difficult for some viewers to see."
+    "Visibility of Text": 5, "The text competes against a busy background, which detracts from clear visibility."
+    "Logo Placement": 4, "The logo placement disrupts the overall aesthetic and does not complement the design effectively."
+    "Consistency": 5, "The post does not reflect a consistent approach across the branding elements."
+    "Alignment": 4, "Elements within the design are unevenly aligned, leading to a less professional appearance."
+    "Aesthetic Appeal": 4, "The design lacks visual allure and professionalism, impacting audience engagement."
+    "Brand Elements": 3, "Insufficient use of brand assets diminishes the brand's recognizability and connection with the audience."
+    "Repetitiveness": 5, "There are some repetitiveness in design themes but sufficient variety to maintain interest among posts."
+}
+
+    "Social Media Marketing Score": 4, "The social media post does not strategically utilize visual appeal or engagement tactics essential for effective social media marketing. It appears underwhelming and uninspiring." ,
+    "Font Size": 5, "Font sizes are generally readable, but in some sections, they could be optimized for better clarity and impact." ,
+    "Visibility of Text": 5, "Some text placements obstruct the viewer’s ability to read important information quickly. Improved positioning and backgrounds would enhance clarity." ,
+    "Logo Placement": 5, "Similar to branding, the logo's placement is suboptimal and fails to enhance the overall aesthetic. More prominence could improve brand recall." ,
+    "Consistency": 5, "Consistency across other social media posts appears lacking, creating a disjointed brand image. Cohesion is necessary across all platforms." ,
+    "Alignment": 4, "Poor alignment of various elements leads to an unprofessional look, which impacts the viewer's perception of the brand's seriousness and credibility." ,
+    "Aesthetic Appeal": 4, "The overall aesthetic lacks appeal, as the design doesn’t capture attention or elicit interest strongly enough. More polished design approach is needed." ,
+    "Brand Elements": 5, "While brand elements are present, they do not integrate seamlessly into the design, lacking both innovation and consistency." ,
+    "Repetitiveness": 4, "A clear lack of innovative ideas leads to the repetitive use of themes or styles across posts, making it easy for the audience to lose interest." 
+}
+
+    "Social Media Marketing Score": 4.0, 
+    "Font Size": 5, explanation: The font size is partially readable but could be larger to prevent any viewer from straining their eyes; optimal readability should always be a priority. 
+    "Visibility of Text": 4, explanation: Text placement interferes with visibility; some important information gets lost against the background. 
+    "Logo Placement": 3, explanation: The logo placement is awkward and disrupts the flow of the design, making it less aesthetically pleasing. 
+    "Consistency": 4, explanation: The design lacks consistency and fails to align with typical brand guidelines, leading to brand dilution. 
+    "Aesthetic Appeal": 5, explanation: The overall aesthetic has potential, but due to inconsistency and poor alignment of elements, it does not reach a professional standard. 
+    "Brand Elements": 4, explanation: Insufficient brand elements are utilized which do not aid recognition; reliance on generic elements diminishes brand strength. 
+    "Repetitiveness": 4, explanation: There’s an evident lack of creative diversity; the design feels too repetitive and standard without significant innovation or change.
+}
+
+    "Social Media Marketing Score": 3,
+    "Font Size": 4, explanation: "Text size is sometimes inconsistent, causing readability issues."
+    "Visibility of Text": 3, explanation: "Text is difficult to read against some backgrounds, risking viewer disengagement."
+    "Logo Placement": 4, explanation: "The logo placement is not optimal, disrupting the overall design flow."
+    "Consistency": 3, explanation: "The design lacks cohesion across posts, making it hard to establish a strong brand identity."
+    "Alignment": 3, explanation: "Some elements appear misaligned, creating an unprofessional appearance."
+    "Aesthetic Appeal": 3, explanation: "The overall feel lacks visual allure, failing to capture attention effectively."
+    "Brand Elements": 3, explanation: "Brand elements are underutilized, missing opportunities for positive brand reinforcement."
+    "Repetitiveness": 4, explanation: "There is noticeable repetition in themes; more diverse content would enrich viewer experience."
+}
+```
+
+    "Social Media Marketing Score": 4,
+    "Font Size": 4, "While generally readable, certain text elements appear too small for easy reading.",
+    "Visibility of Text": 5, "The placement of text poses readability issues, detracting from the overall design effectiveness.",
+    "Logo Placement": 3, "The logo's placement is not optimal, contributing to visual disarray and hindering brand recall.",
+    "Consistency": 5, "There's a basic level of consistency, but further refinement could greatly enhance the overall branding strategy.",
+    "Alignment": 5, "The alignment of elements is questionable in some areas, contributing to a cluttered appearance.",
+    "Aesthetic Appeal": 5, "Though not off-putting, the overall aesthetic lacks allure and sophistication, resulting in a lackluster impression.",
+    "Brand Elements": 6, "Brand elements are used, yet they fail to create a memorable identity.",
+    "Repetitiveness": 4, "There’s evidence of repetitive themes or designs across posts, making content feel stale."
+}
+
+    "Social Media Marketing Score": 3,
+    "Font Size": 4, "Text size is not optimal for quick scanning and readability on mobile devices.",
+    "Visibility of Text": 5, "Some text is visible but placement could be improved to enhance clarity.",
+    "Logo Placement": 3, "Logo placement disrupts the overall aesthetic and does not enhance brand visibility.",
+    "Consistency": 3, "There is a lack of cohesion throughout posts which can confuse followers.",
+    "Alignment": 3, "Many design elements are misaligned, creating an unprofessional appearance.",
+    "Aesthetic Appeal": 3, "The overall design is not visually appealing and lacks a modern touch.",
+    "Brand Elements": 3, "Insufficient brand elements fail to reinforce brand recognition, making it forgettable.",
+    "Repetitiveness": 3, "The post theme is repetitive and fails to excite or engage the audience."
+}
+
+    "Social Media Marketing Score": 4,
+    "Font Size": 4, "Text is often too small, reducing readability and engagement potential."
+    "Visibility of Text": 4, "Text visibility suffers due to poor placement against the backdrop."
+    "Logo Placement": 5, "Logo placement disrupts the overall aesthetic rather than enhances it."
+    "Consistency": 4, "Though some elements are consistent, others present disparities that weaken brand identity."
+    "Alignment": 4, "Misalignment among key design elements creates a visually distracting experience."
+    "Aesthetic Appeal": 4, "The design lacks the visual allure expected on social platforms and does not entice viewers."
+    "Brand Elements": 5, "Brand assets are used, but their effectiveness is diminished due to overuse."
+    "Repetitiveness": 4, "Similar themes in posts diminish creativity and audience engagement."
+}
+
+    "Social Media Marketing Score": 5, "The social media marketing effectiveness shows potential, but not without significant shortcomings. There's a lack of coherence and aesthetic appeal that could impact audience retention and re-engagement." ,
+    "Font Size": 5, "Text is somewhat hard to read due to sizing and placement issues, impacting overall clarity." ,
+    "Visibility of Text": 5, "While text is present, some areas blend too much with the background or the clutter, leading to a decrease in readability." ,
+    "Logo Placement": 5, "The logo disrupts the aesthetic flow and does not command enough attention for strong brand recall." ,
+    "Consistency": 5, "Lacks a consistent visual theme across the post, resulting in a disjointed experience for viewers." ,
+    "Alignment": 5, "Misalignment of elements leads to a jarring visual experience that can detract from professionalism." ,
+    "Aesthetic Appeal": 5, "Overall, the design lacks the polish and professionalism expected from high-quality social media branding."
+}
+

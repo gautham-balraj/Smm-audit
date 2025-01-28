@@ -1,0 +1,167 @@
+    "Branding Score": 3,
+    "Logo Usage": 2, "The logo is not prominently featured, making it hard to recognize the brand easily. It should be larger and more visible."
+    "Brand Colors": 6, "The brand colors are present but lack a strong, cohesive integration which can confuse the audience about brand identity."
+    "Typography": 2, "Font choices are inconsistent and do not align well with brand identity. The text is hard to read in some areas, detracting from the overall professionalism."
+    "Brand Identity": 4, "The post does not effectively communicate a distinct brand persona, making it hard for new customers to relate to the brand."
+    "Visual Hierarchy": 3, "Key elements are not prioritized effectively; the main message is overshadowed by less important graphics."
+    "Template Consistency": 5, "While some elements are consistent, others seem mismatched, creating an unprofessional look."
+    "Messaging Alignment": 6, "The messaging is somewhat clear but lacks focus. It fails to hit the core value proposition strongly enough."
+    "Subtle Branding": 7, "There is an appropriate balance of branding without going overboard but still could be more apparent."
+    "Overbranding": 4, "The branding elements do not overwhelm, but a stronger presentation would enhance recognition."
+    "Variations": 3, "There is limited creativity in the post design compared to other industry standards."
+
+
+    "Branding Score": 4, explanation: The branding on the post is inconsistent and poorly applied. The logo lacks clarity and visibility, indicating subpar usage. Brand colors are not well-represented, and there's little to no adherence to typography standards that align with the brand identity. Visual hierarchy is weak, making key elements hard to distinguish, and the overall brand identity does not shine through the cluttered layout.
+
+    "criteria_name": "Logo Usage", score: 3, explanation: The logo is almost illegible; it is either too small or inadequately integrated, resulting in a lack of brand recognition.
+
+    "criteria_name": "Brand Colors", score: 4, explanation: While there are hints of brand colors, the presentation is muddled with disorganization and inconsistencies, which compromises brand identity.
+
+
+    "Branding Score": 4,
+    "Logo Usage": 2, "Explanation": "The logo is present but poorly sized and not clearly visible, diminishing brand recognition. It should be prominent and unobstructed to reinforce brand identity.",
+    "Brand Colors": 5, "Explanation": "While the colors are generally on-brand, there are slight deviations from the established palette that could lead to inconsistency in brand perception.",
+    "Typography": 4, "Explanation": "The typography lacks consistency and does not match industry standards for readability and visual appeal. The font choices are awkward and undermine the brand's professionalism.",
+    "Brand Identity": 5, "Explanation": "The design communicates elements of the brand's eco-friendliness, but it lacks a strong emotional connection or distinctive personality.",
+    "Visual Hierarchy": 3, "Explanation": "The key message and elements are poorly prioritized, making it difficult for viewers to focus on the primary product benefit.",
+    "Template Consistency": 4, "Explanation": "There is minimal use of a uniform design template, leading to a disjointed appearance across posts. Consistent templates enhance brand recognition.",
+    "Messaging Alignment": 5, "Explanation": "The message is present but vague and does not resonate with the target audience effectively. Clear, targeted messaging is crucial for engagement.",
+    "Subtle Branding": 6, "Explanation": "Branding elements are present but could be subtly overbearing, resulting in cluttered visuals.",
+    "Overbranding": 4, "Explanation": "Poor integration of branding elements creates a distracting experience for the viewer; less emphasis on logos would foster a more organic connection.",
+    "Variations": 4, "Explanation": "There is a lack of creative innovation in the post, making it seem repetitive compared to previous posts."
+
+
+    "Branding Score": 4.5, "The logo appears small and somewhat unclear, impacting overall visibility. The brand colors are inconsistent, detracting from brand recognition. Typography lacks uniformity, with different font styles clashing, which diminishes brand identity. The visual hierarchy could be better prioritized to focus on key messages. There is minimal creative variation in, with little to no innovation in the post compared to previous ones." ,
+    "Logo Usage": 5, "The logo is present but poorly sized, making it not instantly recognizable.";
+    "Brand Colors": 4, "The colors in the post deviate from the standard brand colors, undermining brand consistency.";
+    "Typography": 3, "There are clashes between font styles, with inconsistent font weights and sizes.";
+    "Brand Identity": 5, "The post reflects the essence of an eco-friendly brand but fails to make a strong impact.";
+    "Visual Hierarchy": 4, "Important elements lack clear prioritization, making it difficult for viewers to know where to look first.";
+    "Template Consistency": 5, "While there is an attempt at uniformity, the design templates could use refinement for better consistency.";
+
+
+    "Branding Score": 4,
+    "Logo Usage": 3, "The logo placement is poor, appearing to compete with other elements in the post, resulting in a cluttered look. Size and clarity of the logo also seem inadequate for brand recognition."
+    "Brand Colors": 5, "There is a lack of consistent brand colors which makes the visual message diluted and inconsistent with brand identity."
+    "Typography": 4, "The typography used is inconsistent and does not align well with the typical aesthetic of the brand. Key information appears hard to read in certain sections."
+    "Brand Identity": 4, "The design does not strongly reflect the unique persona of the brand; it feels generic."
+    "Visual Hierarchy": 3, "There is a lack of clear visual hierarchy, which makes it hard to distinguish key messages quickly. Important elements should have been more prominent."
+    "Template Consistency": 4, "The post lacks a consistent template, making it feel disjointed compared to other posts from the brand."
+    "Messaging Alignment": 5, "The messaging isn’t overly vague, but it lacks strong alignment with the brand narrative. It feels more like an afterthought."
+    "Subtle Branding": 5, "Branding seems too subtle as it doesn’t pop out visually; the post could have benefited from stronger branding elements."
+    "Overbranding": 5, "Overbranding is not an issue, but the subtlety is at play, leading to a lack of immediate brand recall."
+    "Variations": 4, "There is a notable lack of creative variations or innovative ideas presented in this post compared to other promotions."
+
+
+    "Branding Score": 4, "The branding in this Instagram post is undermined by major inconsistencies. The logo, if present, is improperly sized or out of place. The brand colors fail to align with established brand standards, leading to a diluted visual identity. Typography is inconsistent, lacking any cohesive branding elements. The overall design does not deliver a clear or engaging brand message, making it difficult to identify the brand itself. Visual hierarchy is poor, with key elements lacking prioritization, and there is no reflection of the brand’s unique persona. The lack of template consistency and messaging alignment also detracts significantly from the overall branding effectiveness.",
+    
+
+    "Branding Score": 5,
+    "Logo Usage": 4, explanation: The logo is too small and is not prominently placed, making it difficult for viewers to immediately recognize the brand.
+    "Brand Colors": 5, explanation: There are some deviations from the brand's established color scheme, which makes it less cohesive.
+    "Typography": 4, explanation: The typography lacks consistency and does not align with the brand identity, weakening the overall brand presentation.
+    "Brand Identity": 5, explanation: While the image captures some elements of the brand's identity, it falls short in clearly communicating the unique persona of the brand.
+    "Visual Hierarchy": 6, explanation: There is a moderate level of visual hierarchy, but key elements could be prioritized better for clearer communication.
+    "Template Consistency": 6, explanation: Template usage is somewhat consistent, but there are elements that feel out of place within the overall design.
+    "Messaging Alignment": 5, explanation: The messaging is somewhat vague and doesn't clearly reflect the brand’s core values or purpose.
+    "Subtle Branding": 6, explanation: The branding is somewhat present but not sufficiently prominent to effectively market the company.
+    "Overbranding": 6, explanation: There are some attempts at branding, but they don't overwhelm the viewer, maintaining a reasonable balance.
+    "Variations": 5, explanation: The post lacks creative variations from previous posts, reducing its impact.
+
+
+    "Branding Score": 4,
+    "Logo Usage": 3, "The logo is partially obscured, detracting significantly from the intended branding. It lacks proper visibility, which could hinder brand recognition."
+    "Brand Colors": 6, "While some brand colors are present, the post does not maintain consistent color schemes throughout, potentially diluting brand identity."
+    "Typography": 5, "The typography lacks consistency, with some fonts not aligning with the brand's identity, resulting in a misaligned visual hierarchy."
+    "Brand Identity": 4, "The overall design doesn't effectively showcase the unique persona of the brand; like a lack of a thematic connection with the product."
+    "Visual Hierarchy": 5, "The prioritization of key elements is unclear, with certain messages getting lost in the overall design."
+    "Template Consistency": 4, "There is evident inconsistency in the usage of design templates compared to prior posts, detracting from brand cohesion."
+    "Messaging Alignment": 6, "The message is somewhat aligned with the product but feels vague and requires clarity to better communicate the product's value."
+    "Subtle Branding": 5, "The branding is subtly incorporated but lacks an impactful presence that could have made the product more identifiable."
+    "Overbranding": 3, "The design incorporates excessive elements surrounding the product, which distracts from the main branding objectives."
+    "Variations": 4, "There is insufficient variety in visual styles compared to previous posts, making the overall narrative feel stagnant."
+
+
+    "Branding Score": 5, "The branding elements are present but not executed to a satisfactory level. The logo, while visible, is not optimally placed or sized, which detracts from overall professionalism. There may be slight inconsistencies in brand colors that do not align perfectly. The typography is functional but lacks the distinctive flair that often defines a brand's identity. The visual hierarchy is poor, as key elements do not stand out sufficiently, and there is a lack of template consistency, making it difficult for the audience to associate the post with the brand properly or recall it later." ,
+
+    "Logo Usage": 4, "The logo is visible but seems underwhelming in its presentation. It doesn’t dominate the visual narrative of the post, which is a missed opportunity to reinforce brand identity. A better placement or sizing adjustment would enhance recognition." ,
+    "Brand Colors": 6, "While the colors are on-brand, there are minor inconsistencies in shade usage or saturation that could confuse the audience or weaken brand recognition. Maintaining a strict color palette is essential." ,
+    "Typography": 5, "The font choice is acceptable but lacks unique characteristics that would help in brand storytelling. Further refinement in font pairing and size could enhance readability and aesthetic appeal." ,
+    "Brand Identity": 7, "The post somewhat reflects the brand identity but does not capture its full essence. There is potential in the design, but it falls short in terms of creative execution to evoke emotion or connection." ,
+    "Visual Hierarchy": 5, "Key elements are somewhat muddled, making it challenging for the viewer to prioritize information. The layout does not guide the viewer effectively through the content." ,
+    "Template Consistency": 6, "While there is some level of template adherence, variations in design elements across posts create a disjointed feel, undermining the coherence necessary for audience recognition." ,
+    "Messaging Alignment": 5, "The message is present but could be clearer. A stronger call-to-action or direct messaging aligned with the product benefits would improve effectiveness." ,
+
+
+    "Branding Score": 5.0, 
+    "Logo Usage": 4, explanation: The logo is visible but not prominent; it appears to be somewhat small and lacks a proper place within the overall design which diminishes brand visibility. 
+    "Brand Colors": 6, explanation: While the brand colors are present, there are inconsistencies in tone throughout the post which detract from the cohesive look expected from a professional brand. 
+    "Typography": 5, explanation: The typography is mostly legible but does not consistently reflect a strong brand identity; some text elements blend poorly with the background, hurting readability. 
+    "Brand Identity": 5, explanation: The design somewhat reflects the brand’s eco-friendly image but lacks creativity and innovation, leading to a generic feel. 
+    "Visual Hierarchy": 5, explanation: The visual hierarchy is poorly executed; although key information is present, it lacks prioritization, making it difficult for viewers to discern which elements to pay attention to first. 
+    "Template Consistency": 5, explanation: The post doesn’t utilize a consistent template, which can confuse the audience and disrupt brand recognition. 
+    "Messaging Alignment": 4, explanation: Messaging is unclear and does not resonate powerfully with the intended audience; the eco-friendly aspect could be highlighted better. 
+    "Subtle Branding": 5, explanation: Branding is primarily subtle, which might be effective if there were a strong narrative; however, without clear messaging, it fails to make an impact. 
+    "Variations": 3, explanation: There is a distinct lack of creativity and innovation in the design; it feels monotonous and does not leverage the potential for visually interesting marketing strategies.
+
+
+    "Branding Score": 4,
+    "Logo Usage": 5, explanation: "The logo is present but not prominent enough, decreasing brand recognition."
+    "Brand Colors": 6, explanation: "There are slight inconsistencies with the brand colors, which could confuse customers."
+    "Typography": 4, explanation: "The typography lacks coherence, making it difficult to establish a clear brand identity."
+    "Brand Identity": 5, explanation: "The overall design doesn't fully reflect the brand's unique persona and could be improved."
+    "Visual Hierarchy": 3, explanation: "The post lacks a clear visual hierarchy; key elements are not prioritized effectively."
+    "Template Consistency": 4, explanation: "The template shows signs of inconsistency with other posts, risking a uniform brand image."
+    "Messaging Alignment": 5, explanation: "While messaging is present, it lacks clarity, making it vague for viewers."
+    "Subtle Branding": 5, explanation: "Branding is too subtle in places, risking viewer engagement."
+    "Overbranding": 4, explanation: "While not overwhelmingly branded, there are moments where brand elements distract from the main message."
+    "Variations": 4, explanation: "Creative innovation is limited, making the post feel repetitive compared to previous content.",
+    
+
+    "Branding Score": 3,
+    "Logo Usage": 5, "The logo appears to be present but is not prominently displayed, making it less effective in establishing brand recognition.",
+    "Brand Colors": 3, "The post shows unclear alignment with established brand colors, causing confusion and dilution in brand identity.",
+    "Typography": 4, "While the font is legible, there is inconsistency and lack of coherence that detracts from a unified brand image.",
+    "Brand Identity": 2, "The overall aesthetic does not reflect a strong brand persona; it appears generic and lacks distinctive characteristics.",
+    "Visual Hierarchy": 3, "Key elements, including product details, are not prioritized effectively, leading to a cluttered look.",
+    "Template Consistency": 4, "There are signs of a recurring template but inconsistencies in application reduce effectiveness.",
+    "Messaging Alignment": 5, "The messaging is relevant to eco-friendliness but lacks punch and doesn't strongly convey unique selling propositions.",
+    "Subtle Branding": 5, "While branding is present, it feels subtle to the point of vagueness, and there's a missed opportunity for stronger brand statements.",
+    "Overbranding": 5, "There are no overtly distracting elements, but the design could integrate branding elements more creatively.",
+    "Variations": 4, "The lack of variety in design or content across posts can lead to viewer fatigue and reduced engagement."
+    ,
+
+    "Branding Score": 3,
+    "Logo Usage": 6, "The logo is visible but poorly sized and not distinct in any particular way, which can lead to brand recognition issues.",
+    "Brand Colors": 4, "The colors do not align with typical expectations of brand consistency and there's ambiguity that can confuse the viewer.",
+    "Typography": 2, "Font choices are inconsistent and do not reflect a cohesive brand identity. This lowers the professionalism of the post.",
+    "Brand Identity": 4, "The design lacks unique elements that embody the brand's persona, making it forgettable and indistinguishable from competitors.",
+    "Visual Hierarchy": 3, "Important elements are not prioritized correctly leading to a cluttered appearance that's hard to navigate.",
+    "Template Consistency": 2, "There is no uniform template or structure, which disrupts the overall brand image across other platforms.",
+    "Messaging Alignment": 5, "The product message is present but vague; there’s a lack of clarity about why it stands out.",
+    "Subtle Branding": 3, "Brand elements, while present, are not cleverly integrated into the design, leading to a forced look.",
+    "Overbranding": 2, "Brand elements are scattered without cohesion, creating a visually unappealing experience.",
+    "Variations": 5, "There is some creative variation, but mostly it can come across as unoriginal in a sea of similar products.",
+    
+
+    "Branding Score": 4,
+    "Logo Usage": 3, "The logo is not prominently displayed and lacks clarity, making it difficult for viewers to associate the brand with the product."
+    "Brand Colors": 4, "There are inconsistencies in brand colors that distract from the overall brand identity, suggesting a lapse in adherence to brand guidelines."
+    "Typography": 5, "The typography lacks uniformity and does not align well with the brand identity, creating a disjointed visual experience."
+    "Brand Identity": 4, "The overall design does not effectively communicate the brand’s unique persona, which potentially confuses the audience."
+    "Visual Hierarchy": 5, "Key elements are not prioritized effectively, leading to a lack of clear focus in the post."
+    "Template Consistency": 4, "There is a lack of a cohesive template, reflecting a disconnect in the design across posts."
+    "Messaging Alignment": 5, "The messaging is somewhat vague and does not convey a strong value proposition for the product."
+    "Subtle Branding": 6, "While not overly subtle, the branding elements could have been better integrated within the overall design to enhance recognition."
+    "Overbranding": 5, "There are moments where branding elements can be distracting due to overuse."
+    "Variations": 4, "The lack of creative variety is evident, which diminishes the potential for engaging content."
+
+
+    "Branding Score": 4, "The branding elements appear somewhat misaligned or inconsistent in this post. The logo, while visible, is not prominently displayed or sized optimally, leading to reduced brand recognition. Brand colors seem to deviate slightly from the expected scheme, which can confuse the audience. Typography does not maintain a clear consistency, with font choices looking randomly selected. The overall design lacks a strong visual hierarchy, resulting in important elements blending in with others, thus weakening brand identity. The messaging is also vague, making it hard for the audience to connect the imagery with the product itself." ,
+    "Logo Usage": 5, "The logo is present but is not ideally placed or sized, leading to a lack of impact in brand recognition." ,
+    "Brand Colors": 4, "There are inconsistencies with brand colors, which detract from a unified brand image." ,
+    "Typography": 3, "The typography lacks uniformity and does not align well with brand identity, appearing mismatched and poorly chosen." ,
+    "Brand Identity": 5, "The design does not strongly reflect a clear brand persona, leaving it somewhat generic. More cohesive elements could enhance recognition." ,
+    "Visual Hierarchy": 3, "Poor prioritization and emphasis on key elements make it challenging for the viewer to discern important information at a glance." ,
+    "Messaging Alignment": 4, "The messaging feels ambiguous and does not strongly engage with the intended product, lacking a clear call-to-action." ,
+

@@ -1,0 +1,154 @@
+    "Content Marketing Score": 4,
+    "Content Visibility": 5, "While content is somewhat visible, cluttered visuals lead to confusion about the main message."
+    "Engagement Cues": 4, "Calls to action are present but are vague and not compelling enough to encourage engagement."
+    "Information Overload": 3, "The visuals contain too much information that detracts from key messages, creating confusion."
+    "Storytelling": 5, "The narrative is weak and does little to engage the audience emotionally."
+    "Content Variety": 4, "Post variety is limited, which can lead to audience fatigue."
+    "Typography Consistency": 3, "The typography is inconsistent, which adds to the confusion of the message."
+    "Aesthetic Coherence": 4, "The overall design lacks coherence, which is essential for maintaining audience interest."
+    "Content Relevance": 5, "The post generally aligns with brand values, but the relevancy of elements could be improved."
+    "Stock Elements": 4, "Some reliance on stock imagery is evident which reduces authenticity."
+
+
+    "Content Marketing Score": 5, explanation: The content is slightly engaging but suffers from visual overload and lacks a strong call to action. Although there are product details mentioned, the execution is poor, making it challenging for the audience to absorb key information effectively.
+
+    "criteria_name": "Content Visibility", score: 4, explanation: The design is cluttered, making it difficult for viewers to focus on the content. The key information gets lost in the chaos.
+
+    "criteria_name": "Engagement Cues", score: 5, explanation: While there is an attempt to promote the product, there is no clear call to action, making it difficult for users to know the next steps.
+
+
+    "Content Marketing Score": 5,
+    "Content Visibility": 5, "Explanation": "The content is somewhat cluttered, hindering its visibility and effectiveness in communicating the product's benefits.",
+    "Engagement Cues": 4, "Explanation": "The call-to-action is unclear, which can lead to potential customers not knowing the next steps.",
+    "Information Overload": 5, "Explanation": "While information is there, it is presented in a somewhat overwhelming manner and could be better streamlined to facilitate comprehension.",
+    "Storytelling": 5, "Explanation": "The storytelling aspect is weak; it does not create an engaging narrative around the product that resonates with potential customers.",
+    "Content Variety": 4, "Explanation": "The post does not exhibit sufficient variety compared to previous posts, leading to a sense of monotony.",
+    "Typography Consistency": 5, "Explanation": "The use of typography is inconsistent and affects the overall aesthetic negatively.",
+    "Aesthetic Coherence": 4, "Explanation": "The design lacks coherence and fails to create a visually appealing experience for the viewer.",
+    "Content Relevance": 6, "Explanation": "The post is relevant to the brand but lacks a compelling presentation that would attract the audience.",
+    "Stock Elements": 5, "Explanation": "There appears to be some reliance on generic imagery, which can dilute brand uniqueness."
+
+
+    "Content Marketing Score": 5, "The content is fairly visible, but cluttered and overwhelming in areas. There is a lack of engagement cues, undermining interaction opportunities. The storytelling aspect feels weak and unengaging, with no compelling narratives presented. Additionally, there is an excessive reliance on stock imagery which detracts from original content creation." ,
+    "Content Visibility": 5, "The content is visible, but the overall design is cluttered and lacks focus.";
+    "Engagement Cues": 4, "There are no clear calls-to-action to engage the audience.";
+    "Information Overload": 5, "The post contains too much information, making it hard to digest.";
+    "Storytelling": 4, "The narrative is unengaging and lacks a compelling story.";
+    "Content Variety": 5, "There is little to no variety or innovation in post content.";
+    "Aesthetic Coherence": 5, "The overall aesthetic lacks cohesion due to clashing elements.";
+
+
+    "Content Marketing Score": 3,
+    "Content Visibility": 4, "Content is somewhat cluttered making it harder for viewers to discern the message. Key features of the product are not highlighted effectively."
+    "Engagement Cues": 3, "Calls-to-action are either unclear or completely absent, which diminishes engagement potential."
+    "Information Overload": 4, "There is some textual overload impacting the viewer's ability to digest information effectively. Better spacing could help."
+    "Storytelling": 5, "While the storytelling is not entirely absent, it is underwhelming and fails to create a connection with the brand or product."
+    "Content Variety": 3, "Content feels stale and lacks dynamism, which is essential for effective content marketing and audience engagement."
+    "Typography Consistency": 4, "Inconsistent typography makes it difficult to read essential product details, thereby detracting from the overall effectiveness."
+    "Aesthetic Coherence": 3, "The design lacks coherence, making it less visually appealing. A more aligned aesthetic could be beneficial."
+    "Content Relevance": 5, "Content generally aligns with the brand but misses impactful storytelling that would create a lasting impression."
+    "Stock Elements": 2, "The heavy reliance on stock imagery detracts from the authenticity of the post, emphasizing a lack of originality."
+
+
+    "Content Marketing Score": 4, "The content marketing evident in this post suffers from clutter and poor design choices. Key content is not visibly prioritized, making it hard for viewers to quickly grasp the message or call to action, which is indistinct or possibly missing entirely. Additionally, there’s a noticeable case of information overload with excessive visuals and text, hampering engagement. The aesthetics lack coherence, which further muddles the content’s relevance. There's reliance on generic or stock imagery, which gives a sense of sameness in the content. The storytelling aspect is weak, failing to connect effectively with the audience.",
+    
+
+    "Content Marketing Score": 6,
+    "Content Visibility": 5, explanation: Content visibility is somewhat cluttered, making it challenging for viewers to focus on the key messages.
+    "Engagement Cues": 6, explanation: There is a presentable call-to-action, but it's not as clear or compelling as it could be to drive engagement effectively.
+    "Information Overload": 6, explanation: While the post does convey relevant information, some content may be perceived as overwhelming due to lack of clarity.
+    "Storytelling": 7, explanation: The narrative is interesting and relevant; however, it could connect more personally with the audience.
+    "Content Variety": 6, explanation: There is some variety in the approach, though it feels a bit repetitive compared to past posts.
+    "Typography Consistency": 6, explanation: Typography is generally consistent but could be improved to better match the brand's established style.
+    "Aesthetic Coherence": 5, explanation: There are aesthetic elements that clash a bit, detracting from the overall coherence of the post.
+    "Content Relevance": 7, explanation: The content is relevant to the audience and aligns with the product offering.
+    "Stock Elements": 6, explanation: While the image uses professional photography, it does have some stock-like qualities that could be improved for authenticity.
+
+
+    "Content Marketing Score": 5,
+    "Content Visibility": 5, "The content is somewhat cluttered, making it hard to focus on the key messages in the post."
+    "Engagement Cues": 4, "The lack of clear calls-to-action results in diminished engagement potential for viewers."
+    "Information Overload": 5, "The post contains excessive visual elements and text, which can confuse the audience and dilute the message."
+    "Storytelling": 4, "The story behind the product is not effectively conveyed, lacking an emotional connection or narrative."
+    "Content Variety": 6, "There is a decent variety in terms of the imagery used, though it lacks distinctiveness that engages the audience."
+    "Typography Consistency": 5, "While some consistency exists in typography, it lacks attractiveness, affecting readability."
+    "Aesthetic Coherence": 5, "The design elements appear somewhat jarring and do not mesh well together."
+    "Content Relevance": 6, "Content is relevant but lacks a strong tie-in to branding and product messaging."
+    "Stock Elements": 4, "Reliance on generic imagery undermines the authenticity of the content, making it feel less personal."
+
+
+    "Content Marketing Score": 4, "The content lacks engagement and vibrancy. Cluttered visuals combined with mediocre text results in ineffective storytelling and fails to capitalize on emotional engagement." ,
+    "Content Visibility": 4, "Key messages are somewhat obscured by clutter, making it difficult for the viewer to absorb essential information quickly. Clarity in content presentation is crucial." ,
+    "Engagement Cues": 3, "There is a significant lack of clear calls-to-action. This absence strongly impairs potential consumer interaction and engagement, which is a critical failure." ,
+    "Information Overload": 5, "While the post provides informative content, the delivery is overwhelming and could lead to viewer disengagement. Less text and more impactful visuals would benefit overall." ,
+    "Storytelling": 4, "The story behind the product is underdeveloped. It needs to connect with the audience on a deeper level, perhaps by showcasing the eco-friendly aspect or the lifestyle advantages of using the product." ,
+    "Content Variety": 5, "There is potential for variety in the content, but the current execution leans towards a repetitive or stale presentation. Different formats could help refresh the marketing approach." ,
+    "Typography Consistency": 5, "While the typography itself is readable, there is inconsistency in application across text elements, which detracts from professionalism." ,
+    "Aesthetic Coherence": 4, "The aesthetic lacks a polished look; color harmonies and element arrangements are jarring, leading to an unappealing visual experience." ,
+    "Content Relevance": 6, "Although the content is relevant to the product, it doesn’t resonate strongly with the audience as it should. The emotional or practical appeals could be amplified." ,
+
+
+    "Content Marketing Score": 4.0, 
+    "Content Visibility": 4, explanation: Content visibility is hampered by cluttered design and excessive elements fighting for attention, which dilutes the main message. 
+    "Engagement Cues": 4, explanation: Missing calls-to-action result in weak audience engagement potential; viewers are left unsure of what to do after viewing the post. 
+    "Information Overload": 5, explanation: While there are not excessive images or text, the key points are not well-highlighted which leads to confusion. 
+    "Storytelling": 4, explanation: The storytelling aspect is weak; the narrative lacks depth and does not connect emotionally with the audience. 
+    "Content Variety": 5, explanation: There could be more variety in the post to keep the audience engaged; the design feels too rigid and lacks dynamic elements. 
+    "Aesthetic Coherence": 5, explanation: The overall aesthetic is inconsistent; some design choices do not complement each other, resulting in a jarring feel. 
+    "Content Relevance": 4, explanation: The post is relevant to the product but does not effectively convey the unique selling propositions that would entice the target demographic. 
+
+
+    "Content Marketing Score": 4,
+    "Content Visibility": 5, explanation: "Content visibility suffers due to a cluttered layout; important information gets lost."
+    "Engagement Cues": 4, explanation: "Missing strong calls-to-action; viewers may not know how to engage further."
+    "Information Overload": 5, explanation: "There is too much information presented at once, which may overwhelm the viewer."
+    "Storytelling": 3, explanation: "The storytelling aspect is weak; it fails to create an engaging narrative that resonates with viewers."
+    "Content Variety": 5, explanation: "Lack of variety in content shown; posts are becoming monotonous."
+    "Typography Consistency": 4, explanation: "Inconsistencies in typography diminish the post's professionalism."
+    "Aesthetic Coherence": 3, explanation: "The design is jarring and lacks an appealing aesthetic that would attract viewers."
+    "Content Relevance": 4, explanation: "Some content feels off-brand, which could confuse potential customers."
+    "Stock Elements": 5, explanation: "There is a notable reliance on generic imagery, which detracts from authenticity.",
+    
+
+    "Content Marketing Score": 5,
+    "Content Visibility": 4, "Content lacks clarity; there's too much information crammed in without effective highlighting.",
+    "Engagement Cues": 4, "There is potential for calls-to-action but they fail to inspire immediate interaction or urgency.",
+    "Information Overload": 3, "The post's visuals may overwhelm viewers due to excessive textual content without effective layout.",
+    "Storytelling": 5, "The narrative surrounding the environmental benefits exists but isn't compelling, making it harder to engage consumers.",
+    "Content Variety": 3, "There's a monotonous feeling to the content strategy; unique angles or themes are lacking.",
+    "Typography Consistency": 4, "While typography is generally readable, lack of consistency leads to an unprofessional appearance.",
+    "Aesthetic Coherence": 2, "Design elements clash rather than complement, causing a disjointed aesthetic appeal that is jarring.",
+    "Content Relevance": 5, "The content is generally relevant but lacks the sharp focus that would differentiate it in a competitive market.",
+    "Stock Elements": 7, "There are no overtly generic stock elements, which is a positive aspect; however, more originality is required."
+    ,
+
+    "Content Marketing Score": 4,
+    "Content Visibility": 5, "Content is somewhat cluttered which detracts from its overall impact.",
+    "Engagement Cues": 3, "Calls-to-action are unclear or missing, diminishing the chance for increased audience engagement.",
+    "Information Overload": 4, "Images and text are overloaded and can lead to viewer confusion.",
+    "Storytelling": 4, "There is a narrative attempt, but it is weak and lacks emotional engagement.",
+    "Content Variety": 5, "Content across posts is somewhat homogeneous which can alienate potential customers.",
+    "Typography Consistency": 3, "Inconsistent typography diminishes professionalism and readability.",
+    "Aesthetic Coherence": 4, "The aesthetic lacks coherence and fails to provide a clear visual message.",
+    "Content Relevance": 5, "While generally relevant, some elements are off-brand which detracts from the effectiveness."
+
+
+    "Content Marketing Score": 5,
+    "Content Visibility": 6, "Content is visually cluttered, making it harder for viewers to focus on key messages."
+    "Engagement Cues": 4, "Calls-to-action are unclear and do not effectively prompt engagement from the audience."
+    "Information Overload": 5, "There is a risk of information overload; visuals and text do not harmonize well."
+    "Storytelling": 5, "The post lacks a compelling narrative that could capture the audience's attention."
+    "Content Variety": 6, "Content is too similar to previous posts, lacking a refresh in themes and creative approaches."
+    "Typography Consistency": 5, "Inconsistent typography detracts from readability and brand cohesion."
+    "Aesthetic Coherence": 5, "The overall design lacks aesthetic appeal, and elements do not come together well."
+    "Content Relevance": 6, "While relevant, aspects of the content could be refined for more direct connection to the target audience."
+    "Stock Elements": 5, "Reliance on generic visuals detracts from the authenticity of the brand narrative."
+
+
+    "Content Marketing Score": 6, "The post utilizes a mix of visual and textual elements for content marketing. However, clarity and engagement could be significantly improved. While there is some creativity in how the content is presented, the overall effectiveness suffers from information overload and visual clutter, making it less engaging than it could be." ,
+    "Content Visibility": 5, "Important content is lost amid excessive distractions, which compromise the communication of key product information." ,
+    "Engagement Cues": 6, "Calls-to-action are present but not effectively highlighted, leading to potential missed opportunities for engagement." ,
+    "Information Overload": 5, "While content variety is visible, some visuals and text may overwhelm the viewer." ,
+    "Storytelling": 6, "The narrative appears to be present but lacks a compelling structure or engaging hook to captivate the audience." ,
+    "Content Relevance": 7, "The product aligns with brand offerings, but the presentation could benefit from clearer representations of its features." ,
+
