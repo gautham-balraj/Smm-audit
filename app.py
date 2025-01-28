@@ -2,6 +2,7 @@ import streamlit as st
 from PIL import Image
 import os
 import subprocess
+from src.analysis import main as run_analysis
 import time
 import requests
 
@@ -102,7 +103,7 @@ if st.button("Generate"):
                     f.write("pending")
 
                 # Execute the analysis script
-                subprocess.Popen(['python', 'src/analysis.py', company_name])
+                run_analysis()
 
                 # Monitor the status file
                 st.info("Running analysis. Please wait...")
