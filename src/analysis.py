@@ -24,19 +24,19 @@ else:
     company_name = "Default_Company"  # Default value if no argument is passed
 
 # Call the scripts and pass the company_name
-product_result = run_python_file('StreamlitTempApp/src/input_analysis/product-analysis/product_analysis.py', company_name)    
-competitor_result = run_python_file('StreamlitTempApp/src/input_analysis/competitor-analysis/competitor_analysis.py', company_name)
-stddev_result = run_python_file('StreamlitTempApp/src/input_analysis/Standarddeviation.py', company_name)
-renamebranding_result = run_python_file('StreamlitTempApp/src/input_analysis/renamebranding.py', company_name)
-path_result = run_python_file('StreamlitTempApp/src/input_analysis/path.py', company_name)
-feedback_result = run_python_file('StreamlitTempApp/src/input_analysis/feedback.py', company_name)
+product_result = run_python_file('src/input_analysis/product-analysis/product_analysis.py', company_name)    
+competitor_result = run_python_file('src/input_analysis/competitor-analysis/competitor_analysis.py', company_name)
+stddev_result = run_python_file('src/input_analysis/Standarddeviation.py', company_name)
+renamebranding_result = run_python_file('src/input_analysis/renamebranding.py', company_name)
+path_result = run_python_file('src/input_analysis/path.py', company_name)
+feedback_result = run_python_file('src/input_analysis/feedback.py', company_name)
 
 # Now call brand.py, content.py, and social.py with company_name
-brand_result = run_python_file('StreamlitTempApp/src/templates/brand.py', company_name)
-content_result = run_python_file('StreamlitTempApp/src/templates/content.py', company_name)
-social_result = run_python_file('StreamlitTempApp/src/templates/social.py', company_name)
-updated_result = run_python_file('StreamlitTempApp/src/Report/updated1.py', company_name)
-report_result = run_python_file('StreamlitTempApp/src/Report/Report.py', company_name)
+brand_result = run_python_file('src/templates/brand.py', company_name)
+content_result = run_python_file('src/templates/content.py', company_name)
+social_result = run_python_file('src/templates/social.py', company_name)
+updated_result = run_python_file('src/Report/updated1.py', company_name)
+report_result = run_python_file('src/Report/Report.py', company_name)
 
 
 import subprocess
