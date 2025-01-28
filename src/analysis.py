@@ -38,6 +38,7 @@ def run_python_module(module_path, company_name):
         return "error", str(e)
 
 def main():
+    print('Running analysis...')
     # Retrieve company_name from command-line argument passed from app.py
     if len(sys.argv) > 1:
         company_name = sys.argv[1]  # The second argument passed will be the company_name
