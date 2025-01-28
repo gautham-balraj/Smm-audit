@@ -103,15 +103,14 @@ if st.button("Generate"):
                     f.write("pending")
 
                 # Execute the analysis script
-                run_analysis()
+                with st.spinner("Running analysis. Please wait..."):
+                    run_analysis()
 
                 # Monitor the status file
-                st.info("Running analysis. Please wait...")
                 status = check_status_file()
 
                 if status == "success":
                     st.success("Analysis completed successfully!")
-
 
                     # Download Buttons for Generated PDF Reports
                     for report_name, label in [
