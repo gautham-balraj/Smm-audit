@@ -1,4 +1,13 @@
 import base64
+# Note: Typically, pip installations are not done within Python scripts.
+# However, if you need to ensure 'requests' is installed, you can use the following code.
+import sys
+try:
+    import requests
+except ImportError:
+    import subprocess
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "requests"])
+
 import requests
 from PIL import Image
 import io
