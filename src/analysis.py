@@ -1,21 +1,25 @@
 import subprocess
 import sys
+import importlib 
+import requests
+from PIL import Image
+# In analysis.py
+import sys
+from pathlib import Path
 
 def run_python_file(file_name, company_name):
+    # Add the project root to PYTHONPATH
+    project_root = str(Path(__file__).parent.parent)
+    sys.path.append(project_root)
+
+    # Dynamically import the target script
     try:
-        # Run the Python script with the company name passed as an argument
-        result = subprocess.run(
-            ['python', file_name, company_name],  # Pass company_name as argument
-            capture_output=True,
-            text=True
-        )
-        
-        if result.returncode == 0:
-            return result.stdout  # Return the output of the script
-        else:
-            return f"Error in {file_name}: {result.stderr}"
+        spec = importlib.util.spec_from_file_location("module_name", file_name)
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        return "Success"  # Adjust based on your script's output
     except Exception as e:
-        return f"An error occurred while running {file_name}: {str(e)}"
+        return f"Error: {str(e)}"
 
 # Retrieve company_name from command-line argument passed from app.py
 if len(sys.argv) > 1:
