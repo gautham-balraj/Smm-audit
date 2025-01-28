@@ -61,3 +61,4 @@ websocket-client
 wsproto
 playwright
 PyPDF2
+requests
